@@ -30,6 +30,8 @@ I am a Software Developer with experience of 5 years working in the information 
 <p>
     <a href="#"><img alt="Spring" src="https://custom-icon-badges.demolab.com/badge/Spring-25A162.svg?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="SpringBoot" src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-25A162.svg?logo=springboot&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Apache_Kafka-000000.svg?logo=apachekafka&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Hibernate-brown.svg?logo=Hibernate"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
