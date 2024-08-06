@@ -1,8 +1,10 @@
 # \< MANOJ KUMAR /\>
 
-**` Software Developer`**
+**`Software Developer`**
 
-I am a Software Developer with experience of 5 years working in the information technology industry. Skilled in Java, Node JS, Hibernate, Kafka, and Oracle.
+As a passionate Software Developer with over 5 years of experience in the IT industry, I specialize in creating robust
+and scalable applications using cutting-edge technologies. My expertise spans Java, Next.js, Node.js, Hibernate, Kafka,
+and Oracle, enabling me to deliver high-quality solutions that drive business success.
 
 <!-- Social icons section -->
 <p align="center">
@@ -16,13 +18,22 @@ I am a Software Developer with experience of 5 years working in the information 
 ### 👨‍💻 Programming and markup languages
 
 <p>
+    <a href="https://github.com/search?q=user%3Amanojkrr+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amanojkrr+language%3Anextjs"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amanojkrr+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amanojkrr+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amanojkrr+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amanojkrr+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amanojkrr+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amanojkrr+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amanojkrr+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amanojkrr+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
+
+### Streaming and messaging
+
+<p>
+    <a href="https://github.com/search?q=user%3Amanojkrr+language%3Azookeeper"><img alt="Zookeeper" src="https://img.shields.io/badge/Zookeeper-2181A6.svg?logo=apache&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amanojkrr+language%3Akafka"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20.svg?logo=apachekafka&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amanojkrr+language%3Aamq"><img alt="AMQ" src="https://img.shields.io/badge/AMQ-9E1B34.svg?logo=apache&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -45,7 +56,7 @@ I am a Software Developer with experience of 5 years working in the information 
 <p>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-013243.svg?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
