@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-As a passionate Software Developer with over 5 years of experience in the IT industry, I specialize in creating robust
+As a passionate Software Developer with over 6 years of experience in the IT industry, I specialize in creating robust
 and scalable applications using cutting-edge technologies. My expertise spans Java, Next.js, Node.js, Hibernate, Kafka,
 and Oracle, enabling me to deliver high-quality solutions that drive business success.
 
