@@ -1,4 +1,4 @@
-# \< MANOJ KUMAR /\>  &nbsp; <a href="https://www.linkedin.com/in/manoj-kumar-bai/" target="_blank"><img width="32px" alt="LinkedIn" title="Twitter" src="linkedIn.png"/></a>&nbsp; <a href="https://manojkrr.medium.com/" target="_blank"><img height="32px" alt="LinkedIn" title="Medium" src="Medium_logo.png"/></a>
+# \< MANOJ KUMAR /\> &nbsp; <a href="https://www.linkedin.com/in/manoj-kumar-bai/" target="_blank"><img width="32px" alt="LinkedIn" title="Twitter" src="linkedIn.png"/></a>&nbsp; <a href="https://manojkrr.medium.com/" target="_blank"><img height="32px" alt="LinkedIn" title="Medium" src="Medium_logo.png"/></a>
 
 ## **`SOFTWARE DEVELOPER`**
 
@@ -84,7 +84,5 @@ and Oracle, enabling me to deliver high-quality solutions that drive business su
 
 ## 📊 Github stats
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkrr&rank_icon=github&show_icons=true&theme=chartreuse-dark&hide=stars&show=prs_merged,prs_merged_percentage)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkrr&theme=dark&layout=pie)
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkrr&rank_icon=github&show_icons=true&theme=chartreuse-dark&hide=stars&show=prs_merged,prs_merged_percentage) &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkrr&theme=dark&layout=donut)
 
