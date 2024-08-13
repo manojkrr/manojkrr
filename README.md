@@ -78,5 +78,7 @@ and Oracle, enabling me to deliver high-quality solutions that drive business su
 
 ## 📊 Github stats
 
-[![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkrr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkrr&rank_icon=github&show_icons=true&theme=chartreuse-dark&hide=stars&show=prs_merged,prs_merged_percentage)]
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkrr&theme=dark&layout=pie)
 
