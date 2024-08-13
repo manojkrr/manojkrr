@@ -1,4 +1,4 @@
-# \< MANOJ KUMAR /\>
+# \< MANOJ KUMAR /\>  &nbsp; <a href="https://www.linkedin.com/in/manoj-kumar-bai/" target="_blank"><img width="32px" alt="LinkedIn" title="Twitter" src="linkedIn.png"/></a>&nbsp; <a href="https://manojkrr.medium.com/" target="_blank"><img height="32px" alt="LinkedIn" title="Medium" src="Medium_logo.png"/></a>
 
 ## **`SOFTWARE DEVELOPER`**
 
@@ -10,12 +10,13 @@ and scalable applications using cutting-edge technologies. My expertise spans Ja
 and Oracle, enabling me to deliver high-quality solutions that drive business success.
 
 <!-- Social icons section -->
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-kumar-bai/" target="_blank"><img width="32px" alt="LinkedIn" title="Twitter" src="linkedIn.png"/></a>
     &nbsp; &nbsp; &nbsp;
   <a href="https://manojkrr.medium.com/" target="_blank"><img height="32px" alt="LinkedIn" title="Medium" src="Medium_logo.png"/></a>
 </p>
-
+-->
 ---
 
 ## 🛠️ My favorite tools
