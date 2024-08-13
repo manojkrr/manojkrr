@@ -1,10 +1,16 @@
 # \< MANOJ KUMAR /\>
 
-## **`SOFTWARE DEVELOPER`** <a href="https://www.linkedin.com/in/manoj-kumar-bai/"><img width="32px" alt="LinkedIn" title="Twitter" src="linkedIn.png"/></a>
+## **`SOFTWARE DEVELOPER`**
 
 As a passionate Software Developer with over 6 years of experience in the IT industry, I specialize in creating robust
 and scalable applications using cutting-edge technologies. My expertise spans Java, Next.js, Node.js, Hibernate, Kafka,
 and Oracle, enabling me to deliver high-quality solutions that drive business success.
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoj-kumar-bai/"><img width="32px" alt="LinkedIn" title="Twitter" src="linkedIn.png"/></a>
+  <a href="https://manojkrr.medium.com/"><img height="32px" alt="LinkedIn" title="Medium" src="Medium_logo.png"/></a>
+</p>
 
 ---
 
